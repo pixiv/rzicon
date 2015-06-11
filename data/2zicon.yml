@@ -148,3 +148,13 @@ members:
       %{hometown}出身%{age}歳。
       髪の毛ふわふわ天然ガール。
       %{nickname}こと%{name}です。
+  - id: 12
+    name: 大塚望由
+  - id: 13
+    name: 甲斐莉乃
+  - id: 14
+    name: 大和明桜
+  - id: 15
+    name: 伊藤有香
+  - id: 16
+    name: 岩倉あずさ
