@@ -9,6 +9,7 @@ core:
 members:
   - id: 1
     name: 長田 美成
+    preparatory: false
     position: 委員長
     nickname: みなりん
     birthday: 1997-12-17
@@ -23,6 +24,7 @@ members:
       アイドルがぶち大好きな%{nickname}こと%{name}です。
   - id: 2
     name: 重松 佑佳
+    preparatory: false
     position: 副委員長
     nickname: しげちー
     birthday: 1996-5-20
@@ -36,6 +38,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 3
     name: 奥村 野乃花
+    preparatory: false
     nickname: ののた
     birthday: 2001-1-4
     hometown: 東京都
@@ -49,6 +52,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 4
     name: 木下 ひより
+    preparatory: false
     nickname: ひよりん
     birthday: 1997-12-9
     hometown: 東京都
@@ -61,6 +65,7 @@ members:
       %{name}です。%{nickname}って呼んでください。
   - id: 5
     name: 陶山 恵実里
+    preparatory: false
     nickname: えみりぃ
     birthday: 1999-5-26
     hometown: 東京都
@@ -73,6 +78,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 6
     name: 中村 朱里
+    preparatory: false
     nickname: あかりん
     birthday: 1998-1-30
     hometown: 千葉県
@@ -86,6 +92,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 7
     name: 西 七海
+    preparatory: false
     nickname: ななぴ
     birthday: 1996-10-9
     hometown: 東京都
@@ -98,6 +105,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 8
     name: 根本 凪
+    preparatory: false
     nickname: ねも
     birthday: 1999-3-15
     hometown: 茨城県
@@ -112,6 +120,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 9
     name: 的場 華鈴
+    preparatory: false
     nickname: かりんさま
     birthday: 2000-12-30
     hometown: 埼玉県
@@ -124,6 +133,7 @@ members:
       ダンスと梅干しが大好きな%{name}です。
   - id: 10
     name: 吉村 菜々
+    preparatory: true
     nickname: なぁな
     birthday: 1999-8-2
     hometown: 神奈川県
@@ -136,6 +146,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 11
     name: 鶴見 萌
+    preparatory: false
     nickname: もえ
     birthday: 1996-12-5
     hometown: 東京都
@@ -150,11 +161,16 @@ members:
       %{nickname}こと%{name}です。
   - id: 12
     name: 大塚望由
+    preparatory: true
   - id: 13
     name: 甲斐莉乃
+    preparatory: true
   - id: 14
     name: 大和明桜
+    preparatory: true
   - id: 15
     name: 伊藤有香
+    preparatory: true
   - id: 16
     name: 岩倉あずさ
+    preparatory: true
