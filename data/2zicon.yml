@@ -52,7 +52,7 @@ members:
       %{nickname}こと%{name}です。
   - id: 4
     name: 木下 ひより
-    preparatory: false
+    areparatory: false
     nickname: ひよりん
     birthday: 1997-12-9
     hometown: 東京都
@@ -173,4 +173,22 @@ members:
     preparatory: true
   - id: 16
     name: 岩倉 あずさ
+    preparatory: true
+  - id: 17
+    name: 岩倉 あずさ
+    preparatory: true
+  - id: 18
+    name: 石原 深愛
+    preparatory: true
+  - id: 19
+    name: 清水 理子
+    preparatory: true
+  - id: 20
+    name: 隈本 茉莉奈
+    preparatory: true
+  - id: 21
+    name: 蛭田 愛梨
+    preparatory: true
+  - id: 22
+    name: 山崎 夏菜
     preparatory: true
